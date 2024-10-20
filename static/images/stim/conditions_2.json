@@ -1,0 +1,272 @@
+[
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "low_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 40
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 50
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 3,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "high_prior",
+    "Effortlevel2": 4,
+    "success_possibility2": 60
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  },
+  {
+    "condition": "no_prior",
+    "Effortlevel2": 0,
+    "success_possibility2": 0
+  }
+]
